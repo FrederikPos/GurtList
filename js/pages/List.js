@@ -106,6 +106,9 @@ export default {
                         Achieved the record without using hacks, use this for reference: https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing
                     </p>
                     <p>
+                        Minimum difficulty for this list is Insane Demon.
+                    </p> 
+                    <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record.
                     </p>
                     <p>
