@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        You have to use the full gurt icon set, available here: https://drive.google.com/file/d/196y7E8DuBBzDMoIZ8YhJbaE0G8W3fKeH/view?usp=sharing
+                        You have to use the full gurt icon set, unless a certain gamemode is not utilized in the level, then you don't have to use that icon, as we literally can't tell if you're using it or not. Icons available here: https://drive.google.com/file/d/196y7E8DuBBzDMoIZ8YhJbaE0G8W3fKeH/view?usp=sharing
                     </p>
                     <p>
                         Achieved the record without using hacks, use this for reference: https://docs.google.com/spreadsheets/d/1evE4nXATxRAQWu2Ajs54E6cVUqHBoSid8I7JauJnOzg/edit?usp=sharing
