@@ -8,5 +8,11 @@
     "percentToQualify": 63,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "tayon",
+            "link": "https://youtu.be/32Zvza8nK8w",
+            "percent": 100,
+            "hz": 480        
+        }
     ]
 }
